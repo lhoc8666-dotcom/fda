@@ -48,7 +48,7 @@ export function ProcessSection() {
             Quy trình đăng ký FDA tại Vexim Global
           </h2>
           <p className="mt-4 font-sans text-base text-muted-foreground max-w-2xl mx-auto text-pretty">
-            5 bước đơn giản để đưa sản phẩm của bạn vào thị trường Hoa Kỳ
+            5 bước để đưa sản phẩm của bạn vào thị trường Hoa Kỳ
           </p>
         </div>
 
