@@ -80,8 +80,8 @@ export function HeroSection() {
 
             {/* Headline */}
             <h1 className="font-[var(--font-display)] text-3xl font-bold leading-tight tracking-tight text-white sm:text-4xl lg:text-5xl text-balance">
-              Vexim Global - Đăng ký FDA thành công trong
-               2-5 ngày, cam kết ra mã
+              Vexim Global - Đăng ký FDA thành công trong{" "}
+              <span className="whitespace-nowrap">2-5 ngày</span>, cam kết ra mã
             </h1>
 
             {/* Subheadline */}
@@ -215,7 +215,7 @@ export function HeroSection() {
                   </form>
 
                   <p className="mt-3 text-center font-sans text-xs text-white/50">
-                    Miễn phí tư vấn · Không ràng buộc
+                    Miễn phí tư vấn · Hỗ trợ 24/7
                   </p>
                 </>
               )}

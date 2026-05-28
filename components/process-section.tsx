@@ -148,7 +148,7 @@ export function ProcessSection() {
           <div className="inline-flex items-center gap-3 rounded-full bg-success/10 px-6 py-3">
             <Award className="h-5 w-5 text-success" />
             <span className="font-[var(--font-display)] text-base font-semibold text-success">
-              Tổng thời gian: 5-7 ngày làm việc
+              Tổng thời gian: 2-5 ngày làm việc
             </span>
           </div>
         </div>
