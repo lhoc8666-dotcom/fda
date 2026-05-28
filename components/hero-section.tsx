@@ -215,7 +215,7 @@ export function HeroSection() {
                   </form>
 
                   <p className="mt-3 text-center font-sans text-xs text-white/50">
-                    Miễn phí tư vấn · Không ràng buộc
+                    Miễn phí tư vấn · Hỗ trợ 24/7
                   </p>
                 </>
               )}
