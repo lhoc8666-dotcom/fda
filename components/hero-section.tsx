@@ -21,7 +21,14 @@ export function HeroSection() {
   const scrollToSection = (href: string) => {
     const element = document.querySelector(href)
     if (element) {
-      element.scrollIntoView({ behavior: "smooth" })
+      const headerOffset = 80
+      const elementPosition = element.getBoundingClientRect().top
+      const offsetPosition = elementPosition + window.scrollY - headerOffset
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: "smooth"
+      })
     }
   }
 
@@ -147,7 +154,7 @@ export function HeroSection() {
                       Nhận tư vấn miễn phí
                     </h3>
                     <p className="mt-1 font-sans text-sm text-white/70">
-                      Điền thông tin, chúng tôi liên hệ ngay trong 24h
+                      Điền thông tin, chúng tôi liên h�� ngay trong 24h
                     </p>
                   </div>
 
