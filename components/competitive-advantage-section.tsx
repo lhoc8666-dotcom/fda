@@ -123,7 +123,7 @@ export function CompetitiveAdvantageSection() {
         {/* Call to Action */}
         <div className="mt-12 text-center">
           <p className="font-sans text-base text-muted-foreground mb-6">
-            Chúng tôi tự tin rằng Vexim Global cung cấp dịch vụ tốt nhất với giá cơ bản hợp lý nhất.
+            Chúng tôi tự tin rằng Vexim Global sẽ cung cấp dịch vụ tốt nhất với chi phí tối ưu nhất.
           </p>
           <a
             href="#contact"
