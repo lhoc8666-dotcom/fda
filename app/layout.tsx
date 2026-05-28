@@ -65,7 +65,7 @@ export default function RootLayout({
           data-width="350" 
           data-height="420"
         />
-        <script src="https://sp.zalo.me/plugins/sdk.js" async />
+        <script src="https://sp.zalo.me/plugins/sdk.js" async defer />
       </body>
     </html>
   )
