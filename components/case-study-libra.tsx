@@ -70,7 +70,7 @@ export function CaseStudyLibra() {
   }
 
   return (
-    <section className="py-16 bg-gradient-to-b from-background to-muted/30">
+    <section id="case-study" className="py-16 bg-gradient-to-b from-background to-muted/30">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-12">
