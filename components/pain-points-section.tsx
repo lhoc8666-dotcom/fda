@@ -21,6 +21,10 @@ const painPoints = [
     pain: "Khó duy trì tuân thủ sau đăng ký",
     solution: "Hỗ trợ gia hạn định kỳ, nhắc nhở tự động",
   },
+  {
+    pain: "Thời gian xử lý kéo dài, ảnh hưởng kế hoạch kinh doanh",
+    solution: "Quy trình nhanh chóng, hoàn thành trong 5-7 ngày",
+  },
 ]
 
 export function PainPointsSection() {
