@@ -21,10 +21,10 @@ export default function FDALandingPage() {
       <CompetitiveAdvantageSection />
       <ProcessSection />
       <CaseStudyLibra />
-      <FAQSection />
       <CredentialsSection />
       <PartnersSection />
       <ContactFormSection />
+      <FAQSection />
       <Footer />
     </main>
   )
