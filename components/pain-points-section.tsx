@@ -23,7 +23,7 @@ const painPoints = [
   },
   {
     pain: "Thời gian xử lý kéo dài, ảnh hưởng kế hoạch kinh doanh",
-    solution: "Quy trình nhanh chóng, hoàn thành trong 5-7 ngày",
+    solution: "Quy trình nhanh chóng, hoàn thành trong 2-5 ngày",
   },
 ]
 

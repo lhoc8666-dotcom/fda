@@ -4,7 +4,7 @@ const values = [
   {
     icon: Rocket,
     title: "Nhanh chóng",
-    description: "5-7 ngày đăng ký thành công, không mất thời gian chờ đợi",
+    description: "2-5 ngày đăng ký thành công, không mất thời gian chờ đợi",
     color: "border-l-primary",
   },
   {
