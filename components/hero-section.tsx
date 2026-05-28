@@ -93,7 +93,7 @@ export function HeroSection() {
             <div className="mt-8 flex flex-col gap-4 sm:flex-row">
               <Button
                 size="lg"
-                onClick={() => scrollToSection("#testimonials")}
+                onClick={() => scrollToSection("#case-study")}
                 className="border-white/50 bg-white/15 text-white hover:bg-white/25 hover:text-white font-[var(--font-display)] font-semibold px-8 backdrop-blur-sm"
               >
                 Xem case studies
