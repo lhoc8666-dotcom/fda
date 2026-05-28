@@ -30,7 +30,7 @@ export function PartnersSection() {
         {/* Section Header */}
         <div className="text-center mb-10">
           <p className="font-sans text-sm font-medium text-muted-foreground uppercase tracking-wider">
-            Đối tác tin tưởng Vexim Global
+            Đối tác đồng hành cùng Vexim Global
           </p>
         </div>
 
