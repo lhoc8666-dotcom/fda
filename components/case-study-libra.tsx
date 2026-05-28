@@ -175,7 +175,7 @@ export function CaseStudyLibra() {
         {/* CTA */}
         <div className="mt-12 text-center">
           <p className="font-sans text-sm text-muted-foreground mb-4">
-            Bạn muốn trải nghiệm quá trình tương tự?
+            Bạn đã sẵn sàng cho hành trình xuất khẩu của mình chưa?
           </p>
           <a
             href="#contact"
