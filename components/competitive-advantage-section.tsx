@@ -59,7 +59,7 @@ export function CompetitiveAdvantageSection() {
         {/* Section Header */}
         <div className="text-center mb-12">
           <h2 className="font-[var(--font-display)] text-2xl font-bold text-foreground sm:text-3xl lg:text-4xl text-balance">
-            Tại sao Vexim Global là lựa chọn tốt nhất?
+            So sánh dịch vụ FDA
           </h2>
           <p className="mt-4 font-sans text-base text-muted-foreground max-w-2xl mx-auto text-pretty">
             So sánh các đặc điểm chính của dịch vụ FDA tại Vexim Global với các dịch vụ khác trên thị trường
