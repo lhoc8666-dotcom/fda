@@ -45,7 +45,7 @@ export function CredentialsSection() {
                 </p>
               </div>
               <Badge variant="secondary" className="ml-auto font-sans text-xs">
-                Hồ sơ mẫu
+                Biểu mẫu chính thức
               </Badge>
             </div>
 
@@ -114,7 +114,7 @@ export function CredentialsSection() {
             </Dialog>
 
             <p className="mt-4 font-sans text-xs text-muted-foreground text-center">
-              Hồ sơ mẫu thực tế do Vexim Global xử lý. Nhấn để xem chi tiết.
+              Biểu mẫu chính thức của FDA do Vexim Global hỗ trợ hoàn thiện. Nhấn để xem chi tiết.
             </p>
           </div>
 
