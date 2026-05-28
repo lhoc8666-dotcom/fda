@@ -86,7 +86,7 @@ export function HeroSection() {
 
             {/* Subheadline */}
             <p className="mt-6 max-w-xl font-sans text-base leading-relaxed text-white/90 sm:text-lg text-pretty">
-              Với tư cách là đại lý Agent trực tiếp tại Hoa Kỳ, chúng tôi giúp doanh nghiệp Việt Nam vượt qua mọi rào cản FDA một cách nhanh chóng, minh bạch và đáng tin cậy. Đã hỗ trợ 200+ doanh nghiệp thành công.
+              Là đại lý US Agent chính thức tại Hoa Kỳ, Vexim Global cam kết hoàn thành đăng ký FDA chỉ trong 2-5 ngày với chi phí tiết kiệm đến 40% so với thị trường. Đã hỗ trợ 200+ doanh nghiệp Việt Nam xuất khẩu thành công sang Mỹ.
             </p>
 
             {/* CTA Buttons */}
