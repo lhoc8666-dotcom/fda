@@ -20,9 +20,9 @@ export default function FDALandingPage() {
       <ValuePropositionSection />
       <CompetitiveAdvantageSection />
       <ProcessSection />
+      <CaseStudyLibra />
       <FAQSection />
       <CredentialsSection />
-      <CaseStudyLibra />
       <PartnersSection />
       <ContactFormSection />
       <Footer />
