@@ -1,6 +1,7 @@
 import type { Metadata } from 'next'
 import { Poppins, Inter } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
+import Script from 'next/script'
 import './globals.css'
 
 const poppins = Poppins({ 
@@ -62,10 +63,10 @@ export default function RootLayout({
           data-oaid="2933050463560569889" 
           data-welcome-message="Vexim Global hỗ trợ kiểm tra tiêu chuẩn FDA xuất khẩu Mỹ cho nghành hàng của bạn. Bạn cần tư vấn sản phẩm nào?" 
           data-autopopup="0" 
-          data-width="350" 
+          data-width="300" 
           data-height="420"
         />
-        <script src="https://sp.zalo.me/plugins/sdk.js" async defer />
+        <Script src="https://sp.zalo.me/plugins/sdk.js" strategy="afterInteractive" />
       </body>
     </html>
   )
